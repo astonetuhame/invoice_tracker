@@ -1,5 +1,5 @@
 
-# Sibed Defects Tracker
+# Sibed Invoice Tracker
 
 A web application for tracking invoices for transit trucks from Kenya to Uganda after delivery of the product.
 
