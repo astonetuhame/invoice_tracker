@@ -14,7 +14,11 @@ A web application for tracking invoices for transit trucks from Kenya to Uganda 
 - Migrate and seed the database with ```php artisan migrate:fresh --seed```
 - You can now register and log in
 
+## Built With
 
+* [Laravel](https://laravel.com/) - The web framework used
+* [PHP](https://www.php.net/) - Framework language
+* [Livewire](https://laravel-livewire.com/) - Scripting language
 
 
 
