@@ -16,9 +16,8 @@ A web application for tracking invoices for transit trucks from Kenya to Uganda 
 
 ## Built With
 
-* [Laravel](https://laravel.com/) - The web framework used
-* [PHP](https://www.php.net/) - Framework language
-* [Livewire](https://laravel-livewire.com/) - Scripting language
+* [Laravel](https://laravel.com/) - Backend
+* [Livewire](https://laravel-livewire.com/) / [Bootstrap](https://getbootstrap.com/) - Frontend
 
 
 
